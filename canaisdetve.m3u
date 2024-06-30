@@ -1545,6 +1545,9 @@ https://cdn-3.nxplay.com.br/dcpc/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgurUAguc.jpg" group-title="Canais | INFANTIL",ADULT SWIM
 https://watch.vcdn.in/adultswim/index.m3u8
 
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Canais | INFANTIL",ADULT SWIM [Alter]
+http://45.235.0.78/ADULTSWIM-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
