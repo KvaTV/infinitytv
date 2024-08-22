@@ -20,6 +20,12 @@ https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-name="TV Globo SP" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo SP
 http://186.226.215.132:80/carlos123/carlos123/12.m3u8
 
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD 2
+http://168.205.87.198:8555/live/1501/123456/70.m3u8
+
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD 3
+http://cord-cutter.net:8080/k4Svp2/645504/21020#checkedby:iptvlister.com GLOBO SP HD 3
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Santos 
 http://15.235.15.230:14513/
 
